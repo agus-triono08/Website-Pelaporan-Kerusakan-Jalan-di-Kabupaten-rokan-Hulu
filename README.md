@@ -12,6 +12,9 @@ Jangan Lupa Mengubah Koneksi host, user, password, dan database
 ## 👇 Click For Support Me :
 <a href="https://saweria.co/kanggustri"> AgusTriono </a>
 
+## Show your support
+Give a ⭐ if you like this website!
+
 ## 📄 License
 
 ```
